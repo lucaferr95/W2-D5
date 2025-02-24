@@ -1,0 +1,85 @@
+body {
+  text-align: center;
+  width: 100%;
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+  background-color: #eaeded;
+}
+.bgdark {
+  width: 100%;
+  height: 20%;
+  color: #eaeded;
+  background-color: #222f3e;
+  text-align: left;
+}
+.orangebox {
+  color: #eaeded;
+  background-size: cover;
+  padding: 20px;
+  background-color: #f56600;
+  text-align: center;
+}
+.sec1 {
+  background-color: #eaeded;
+  border-radius: 5%;
+}
+.sec1 h2 {
+  padding: 1 rem 0;
+  color: #222f3e;
+  text-align: left;
+}
+.h3sec1 h3 {
+  display: inline-block;
+  color: #222f3e;
+  text-align: center;
+}
+.imsec1 img {
+  display: inline-block;
+  width: 280px;
+  margin: 10px;
+  border-radius: 10%;
+  height: 320px;
+}
+.intro {
+  background-color: rgb(84, 84, 84);
+  width: 100%;
+  height: auto;
+  text-align: left;
+  color: #eaeded;
+}
+.intro p {
+  display: inline-block;
+  text-align: left;
+}
+.finalclass h3 {
+  background-color: #222f3e;
+  color: #eaeded;
+  text-align: center;
+}
+footer {
+  background-color: #222f3e;
+  width: 100%;
+  height: auto;
+  text-align: center;
+}
+.sec3 {
+  text-align: center; /* Allinea il testo a sinistra */
+}
+
+.art3 h2,
+.art3 .h3sec3 {
+  display: inline-block;
+  margin: 0;
+  padding: 20px;
+}
+
+.art3 .h3sec3 {
+  margin-left: 20px;
+}
+.finalclass h3 {
+  background-color: rgb(84, 84, 84);
+  width: 100%;
+  height: auto;
+  text-align: center;
+  color: #eaeded;
+  padding: 20px;
+}
